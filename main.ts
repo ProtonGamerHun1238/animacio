@@ -1,7 +1,7 @@
 input.onButtonPressed(Button.A, function () {
     while (asd == 1) {
         basic.showLeds(`
-            # # . # #
+            . # . # .
             # # # # #
             # # # # #
             . # # # .
